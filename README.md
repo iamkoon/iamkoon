@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="[svg/trungquandev.svg](https://scontent.fsgn22-1.fna.fbcdn.net/v/t39.30808-1/385495737_1047338053297784_223108291550439239_n.jpg?stp=dst-jpg_s160x160&_nc_cat=111&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeE-r4qVqSNRQLDOu6A-NjiN5-jxwIS8dkDn6PHAhLx2QFaGQJB242nz4WLiIFOb50s8WRIosioOoQxiwEDcpMUh&_nc_ohc=UG6ZevxE2JIQ7kNvgGzvg5H&_nc_ht=scontent.fsgn22-1.fna&_nc_gid=AtlIMVGupX-kTxcyqd0CfgO&oh=00_AYDpxfiFlL617WS53XqJHnAWMbAYVxbPTeIb3FAz-Uf9vw&oe=66E85730)" width="1200" alt="Koon" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
